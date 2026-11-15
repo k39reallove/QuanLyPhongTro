@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803697020251",
+    "project_id": "quan-ly-phong-tro-4f015",
+    "storage_bucket": "quan-ly-phong-tro-4f015.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803697020251:android:047e8791d94ac20ed6de7e",
+        "android_client_info": {
+          "package_name": "com.example.quan_ly_phong_tro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYbUBaH1tSVc_mWQHbVzeO-dSW2uiTxNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
